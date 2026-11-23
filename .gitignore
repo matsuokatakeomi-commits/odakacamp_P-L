@@ -1,0 +1,9 @@
+# 収支データは絶対に公開しない
+*.csv
+*.CSV
+*.xlsx
+*.xls
+*.numbers
+*.pdf
+# macOS の管理ファイル
+.DS_Store
